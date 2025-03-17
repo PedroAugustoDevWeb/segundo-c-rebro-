@@ -1,34 +1,42 @@
+# 🧠 Second Brain in Obsidian - Automations & Knowledge Management
+
+Um sistema de **Segundo Cérebro** desenvolvido no **Obsidian**, com foco em **captura de conhecimento**, **organização eficiente** e **revisão contínua**. Ele integra ferramentas externas e automações para manter seu conhecimento atualizado, acessível e revisável com o mínimo de esforço.
+
+> **Principais conceitos aplicados:** Zettelkasten, Personal Knowledge Management (PKM), Spaced Repetition.
 
 ---
 
-## 🛠️ Plugins Utilizados
+## 🚀 Sobre o Projeto
 
-| Plugin                      | Função                                        |
-|-----------------------------|-----------------------------------------------|
-| **Templater**               | Templates dinâmicos com variáveis e scripts   |
-| **Periodic Notes**          | Gestão de notas diárias, semanais e mensais   |
-| **Daily Notes**             | Criação de notas diárias                     |
-| **Readwise Official Plugin**| Importação de highlights automáticos          |
-| **Kanban**                  | Organização de projetos no estilo Trello      |
-| **Tasks**                   | Gestão avançada de tarefas com filtros        |
-| **Spaced Repetition**       | Revisão de notas com algoritmo de repetição   |
-| **Dataview**                | Consultas e dashboards dinâmicos de notas     |
-| **Obsidian Git**            | Backup e versionamento automático via GitHub  |
+Este repositório contém:
+- A estrutura do meu Vault no Obsidian.
+- Templates prontos para anotações diárias, tarefas, revisões e projetos.
+- Configuração dos plugins principais.
+- Instruções de automação com serviços como **Readwise**, **Zapier**, **Google Calendar**, **GitHub**, e **Spaced Repetition**.
 
 ---
 
-## 🔗 Integrações e Automações
+## ⚙️ Funcionalidades Principais
 
-- **Readwise → Obsidian**: Importação automática de destaques e anotações.
-- **Google Calendar → Obsidian**: Geração de notas de reuniões a partir de eventos.
-- **Zapier / Make (Integromat)**: Captura de anotações móveis e envio para o vault.
-- **Obsidian Git**: Backup automatizado em repositório GitHub privado.
-- **Spaced Repetition Plugin**: Revisão automática com base em intervalos espaçados.
+✅ **Captura Automática de Conhecimento**  
+- Integração com **Readwise**: importa automaticamente highlights de livros, artigos, podcasts e tweets.  
+- Captura de anotações rápidas via celular (Google Keep/Drafts → Zapier → Obsidian).  
+- Anotações de reuniões geradas automaticamente a partir do Google Calendar.
+
+✅ **Organização Inteligente de Notas**  
+- Estrutura baseada em **Zettelkasten** e **Mapas de Conhecimento (MOCs)**.  
+- Templates dinâmicos com **Templater** para notas diárias, semanais e mensais.  
+- Sistema de tarefas integrado com **Tasks Plugin** e **Kanban**.
+
+✅ **Revisão e Aprendizado Contínuo**  
+- Revisão espaçada com o **Spaced Repetition Plugin**.  
+- Criação de flashcards diretamente das anotações.
+
+✅ **Backup Automático**  
+- Versionamento e backup do vault com **Obsidian Git** + GitHub privado.
 
 ---
 
-## ✅ Como Usar
+## 📂 Estrutura do Vault
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/second-brain-obsidian.git
+
